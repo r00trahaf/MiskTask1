@@ -42,19 +42,6 @@ This repository contains an end-to-end data science project done as part of the 
 
 ---
 
-## 📁 Files Structure
-
-├── Task1_User_Analysis.ipynb       # Viewer behavior & quality analysis
-├── Task2_Viewership_Forecast.ipynb # Prophet-based time series forecasting
-├── Task3_Recommendation_System.ipynb # KNN & SVD based recommendation engine
-├── datasets/
-│   ├── stc TV Data Set_T1.xlsb
-│   ├── stc TV Data Set_T2.xlsx
-│   └── stc TV Data Set_T3.xlsx
-└── README.md
-
----
-
 ## 📊 Sample Results
 
 - 📈 Peak viewership tends to occur on weekends and during holidays.
